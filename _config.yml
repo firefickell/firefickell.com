@@ -56,7 +56,7 @@ plugins:
 # Customizations
 
 minimal_mistakes_skin: "air"
-repository: firefickell/firefickell.com
+#repository: firefickell/firefickell.com
 hero_image: "./img/flask.jpeg"
 header_image: ".img/flask.jpeg"
 
