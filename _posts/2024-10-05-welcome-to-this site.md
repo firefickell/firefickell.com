@@ -13,4 +13,5 @@ fired. I'm still optimistic for the team (maybe naively)
 Rumor has it that a friend routinely would call for the firing by sending out
 links to this site. I was surprised that the site didn't exist at the time. So I
 thought it would be funny if the friend opened up the site and found not only
-that it existed but that it contained his picture (which it did for a little while.)
+that it existed but that it contained his picture (which it did for a little
+while.)
