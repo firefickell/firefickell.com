@@ -17,3 +17,5 @@ Big Ten game)
 Shout out to special teams as well with a blocked field goal and a blocked punt.
 
 ![Ben Barten blocks a field goal attempt](https://www.jsonline.com/gcdn/authoring/authoring-images/2024/10/19/PMJS/75754165007-mj-suwgrid-198-131947379.jpg?width=1024&height=672&format=pjpg&auto=webp)
+
+<!-- ![Ben Bartent Blocks](../img/field-goal-block-barten.webp) -->
