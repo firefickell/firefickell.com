@@ -7,4 +7,4 @@ Tennessee: 24
 
 That is all!
 
-![Sad Alabama](../img/sad-alabama.jpg)
+![Sad Alabama](/img/sad-alabama.jpg)
