@@ -82,9 +82,9 @@ include:
 comments:
   provider: "giscus"
   giscus:
-    repo_id: R_kgDOM8ZnMg # Shown during giscus setup at https://giscus.app
+    repo_id: R_kgDONDG0aA # Shown during giscus setup at https://giscus.app
     category_name: General # Full text name of the category
-    category_id: DIC_kwDOM8ZnMs4CjHwN # Shown during giscus setup at https://giscus.app
+    category_id: DIC_kwDONDG0aM4CkjJC # Shown during giscus setup at https://giscus.app
     discussion_term: pathname # "pathname" (default), "url", "title", "og:title"
     reactions_enabled: 1 # '1' for enabled (default), '0' for disabled
     theme: light
